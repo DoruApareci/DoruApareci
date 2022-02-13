@@ -19,7 +19,7 @@ Coming Soon
 
 ### Profile Visits 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=DoruApareci.DoruApareci)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=DoruApareci.DoruApareci)
 
 
 ### Coding Stats
