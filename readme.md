@@ -10,7 +10,7 @@ I'm Doru Apareci a IT student and a tech enthusiast. I Spend most of time coding
 - 🔭 I’m currently leaning at @UTM
 - :computer: Most used line of code `printf("Never gonna give [you] up");`
 - 🤔 I’m looking for a girlfriend.
-- 📫 How to reach me: ![]([discordInvite]).
+- 📫 How to reach me: <a href="https://discord.gg/TtbMSrZQjY">Discord</a>.
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug(P.S. Google about that).
 
 ### Top Technologies
