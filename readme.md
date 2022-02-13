@@ -22,8 +22,6 @@ Coming Soon
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=DoruApareci.DoruApareci)
 
 
-<br >
-
 #### Coding Stats
 
 <!--START_SECTION:waka-->
