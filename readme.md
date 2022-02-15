@@ -25,10 +25,6 @@ Coming Soon
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-Markdown   7 mins          ███████████████▓░░░░░░░░░   62.68 % 
-YAML       4 mins          █████████▒░░░░░░░░░░░░░░░   37.32 % 
-```
 <!--END_SECTION:waka-->
 
 ### Github Stats
