@@ -26,6 +26,8 @@ Coming Soon
 
 <!--START_SECTION:waka-->
 ```text
+Total: 1 hr 43 mins
+
 Markdown     59 mins         ██████████████▒░░░░░░░░░░   57.70 % 
 C            23 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.56 % 
 YAML         14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 % 
