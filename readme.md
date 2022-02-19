@@ -26,8 +26,6 @@ Coming Soon
 
 <!--START_SECTION:waka-->
 ```text
-Total: 16 hrs 14 mins
-
 C          12 hrs 49 mins  ███████████████████░░░░░░   75.67 % 
 Markdown   59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 C#         48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
