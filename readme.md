@@ -27,7 +27,8 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C#      24 mins         ████████████████▓░░░░░░░░   66.23 %
+Other   12 mins         ████████▒░░░░░░░░░░░░░░░░   33.77 %
 ```
 
 <!--END_SECTION:waka-->
