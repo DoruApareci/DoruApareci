@@ -27,7 +27,8 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```text
-Other      25 mins         ██████████████▓░░░░░░░░░░   58.34 %
+Markdown   18 mins         █████████████░░░░░░░░░░░░   52.11 %
+Other      16 mins         ████████████░░░░░░░░░░░░░   47.89 %
 ```
 
 <!--END_SECTION:waka-->
