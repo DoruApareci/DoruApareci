@@ -27,8 +27,8 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```text
-C++          5 hrs 19 mins   ████████████████▓░░░░░░░░   67.30 %
-Other        2 hrs 11 mins   ███████░░░░░░░░░░░░░░░░░░   27.73 %
+C++          5 hrs 42 mins   █████████████████▒░░░░░░░   69.22 %
+Other        2 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.58 %
 ```
 
 <!--END_SECTION:waka-->
