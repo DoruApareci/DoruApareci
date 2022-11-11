@@ -27,7 +27,7 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```text
-Other   2 hrs 28 mins   █████████▓░░░░░░░░░░░░░░░   38.44 %
+Other   3 hrs 40 mins   ████████████░░░░░░░░░░░░░   48.18 %
 ```
 
 <!--END_SECTION:waka-->
