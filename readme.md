@@ -27,7 +27,8 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```text
-Other   1 hr 12 mins    ████████████░░░░░░░░░░░░░   48.56 %
+Python   1 hr 14 mins    ███████░░░░░░░░░░░░░░░░░░   27.90 %
+Other    1 hr 13 mins    ███████░░░░░░░░░░░░░░░░░░   27.45 %
 ```
 
 <!--END_SECTION:waka-->
