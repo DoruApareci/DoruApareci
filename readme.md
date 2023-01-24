@@ -27,7 +27,8 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```text
-Other         2 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   33.06 %
+XAML          5 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   31.72 %
+Other         4 hrs 47 mins   ███████░░░░░░░░░░░░░░░░░░   27.59 %
 ```
 
 <!--END_SECTION:waka-->
