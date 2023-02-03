@@ -27,7 +27,8 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```text
-Other        3 hrs 8 mins    ██████████████░░░░░░░░░░░   55.91 %
+JavaScript   1 hr 4 mins     ██████████▓░░░░░░░░░░░░░░   42.24 %
+Other        33 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
 ```
 
 <!--END_SECTION:waka-->
