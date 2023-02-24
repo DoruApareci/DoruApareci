@@ -27,8 +27,7 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```text
-Binary       1 hr 42 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
-Other        1 hr 36 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
+Other        1 hr 38 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.49 %
 ```
 
 <!--END_SECTION:waka-->
