@@ -27,7 +27,7 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```text
-Other        2 hrs 14 mins   ██████████░░░░░░░░░░░░░░░   40.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
