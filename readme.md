@@ -27,7 +27,10 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```text
-Other    1 hr 24 mins    ████████████▓░░░░░░░░░░░░   50.04 %
+C#             3 hrs 14 mins   ████████▓░░░░░░░░░░░░░░░░   34.92 %
+CSHTML         2 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.38 %
+Binary         1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+Other          57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
 ```
 
 <!--END_SECTION:waka-->
