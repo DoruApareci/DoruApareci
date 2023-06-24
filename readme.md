@@ -27,10 +27,7 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```txt
-Other    52 mins         █████████████████░░░░░░░░   68.44 %
-CSHTML   13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
-Binary   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-C#       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
