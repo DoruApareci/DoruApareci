@@ -27,7 +27,10 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     21 mins         ██████████████▓░░░░░░░░░░   58.70 %
+JSON         7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
+C#           6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
+Git Config   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
