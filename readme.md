@@ -27,7 +27,11 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#               40 mins         ██████░░░░░░░░░░░░░░░░░░░   23.88 %
+TypeScript       35 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
+Markdown         29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+Other            16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+HTML             12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
 ```
 
 <!--END_SECTION:waka-->
