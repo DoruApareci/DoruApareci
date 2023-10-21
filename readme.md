@@ -27,11 +27,7 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```txt
-Other   7 mins          ██████████░░░░░░░░░░░░░░░   39.75 %
-TSQL    5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.67 %
-C#      5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.23 %
-JSON    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Ezhil   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
