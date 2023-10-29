@@ -27,7 +27,8 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   1 min           ███████████████████████░░   92.48 %
+JSON         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
 ```
 
 <!--END_SECTION:waka-->
