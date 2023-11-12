@@ -27,7 +27,9 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#       10 mins         █████████████▒░░░░░░░░░░░   53.52 %
+Binary   6 mins          ███████▓░░░░░░░░░░░░░░░░░   31.11 %
+XAML     3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
 ```
 
 <!--END_SECTION:waka-->
