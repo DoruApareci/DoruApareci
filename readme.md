@@ -27,8 +27,7 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```txt
-Other   19 mins         ██████████████████████▒░░   89.54 %
-Bash    2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
