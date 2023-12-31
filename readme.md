@@ -27,11 +27,7 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```txt
-R        1 hr 53 mins    ███████████████████████░░   92.14 %
-C#       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Binary   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Text     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-CSV      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
