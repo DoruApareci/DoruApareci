@@ -17,8 +17,8 @@
                 }
                 /*Type animation*/
                 .typing-demo {
-                    width: 15ch;
-                    animation: typing 2s steps(15), blink .5s step-end infinite alternate;
+                    width: 14ch;
+                    animation: typing 2s steps(14), blink .5s step-end infinite alternate;
                     white-space: nowrap;
                     overflow: hidden;
                     border-right: 3px solid;
@@ -54,12 +54,10 @@
             </style>
 
             <div class="container">
-                <img src="https://github.com/DoruApareci/DoruApareci/blob/main/banner.png" alt="Banner" style="width:100%;"/>
-                <div class="bottom-gradient">
+                    <div style="background-color: black; height: 400px; opacity: 30%;"></div>
                     <div class="centered fadeInBottom">
                         <div class="typing-demo">
-                            Hi I'm Doru <span><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi" /></span>
-                        </div>
+Hi I'm Doru ✋                        </div>
                     </div>
                     <div style="top: 70%; width: 100%; position: absolute;">
                         <h2 class="centered cssanimation fadeInBottom">
@@ -67,7 +65,6 @@
                         </h2>
                     </div>
                 </div>
-            </div>
         </div>
     </foreignObject>
 </svg>
