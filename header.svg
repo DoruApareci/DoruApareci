@@ -1,56 +1,73 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
-        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				.container {
-                position: relative;
-                text-align: center;
-                color: white;
+            <style>
+                /*Container*/
+                .container {
+                    position: relative;
+                    color: white;
+                    font-family: monospace;
                 }
+                /*Center text*/
                 .centered {
-                position: absolute;
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%);
+                    padding: 20px 20px 20px 20px;
+                    position: absolute;
+                    top: 50%;
+                    transform: translate(0%, -50%);
                 }
-
-                .wrapper {
-                height: 100vh;
-                }
-
+                /*Type animation*/
                 .typing-demo {
-                width: 22ch;
-                animation: typing 2s steps(22), blink .5s step-end infinite alternate;
-                white-space: nowrap;
-                overflow: hidden;
-                border-right: 3px solid;
-                font-family: monospace;
-                font-size: 2em;
+                    width: 15ch;
+                    animation: typing 2s steps(15), blink .5s step-end infinite alternate;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    border-right: 3px solid;
+                    font-size: 2em;
                 }
-
                 @keyframes typing {
-                from {
-                    width: 0
+                    from {
+                        width: 0
+                    }
                 }
-                }
-                    
                 @keyframes blink {
-                50% {
-                    border-color: transparent
+                    50% {
+                        border-color: transparent
+                    }
                 }
+                /*Fade in bottom*/
+                .cssanimation, .cssanimation span {
+                    animation-duration: 1s;
+                    animation-fill-mode: both;
                 }
-			</style>
-			<div class="container">
-            <img src="https://github.com/DoruApareci/DoruApareci/blob/main/banner.png" alt="Banner" style="width:100%;">
-            <div class="centered w3-animate-bottom">
-            <div class="typing-demo">
-## Hi I'm Doru <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-            </div>
+                .fadeInBottom {
+                    animation-name: fadeInBottom
+                }
+                @keyframes fadeInBottom {
+                    from {
+                        opacity: 0;
+                        transform: translateY(100%);
+                    }
+                    to {
+                        opacity: 1
+                    }
+                }
+            </style>
 
-I'm Doru Apareci a IT student and a tech enthusiast. I Spend most of time coding different kind of projects for my university homework or just enjoying the tech world.
+            <div class="container">
+                <img src="https://github.com/DoruApareci/DoruApareci/blob/main/banner.png" alt="Banner" style="width:100%;"/>
+                <div class="bottom-gradient">
+                    <div class="centered fadeInBottom">
+                        <div class="typing-demo">
+                            Hi I'm Doru <span><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi" /></span>
+                        </div>
+                    </div>
+                    <div style="top: 70%; width: 100%; position: absolute;">
+                        <h2 class="centered cssanimation fadeInBottom">
+                            I'm Doru Apareci, an IT student and a tech enthusiast. I spend most of my time coding different kinds of projects for my university homework or just enjoying the tech world.
+                        </h2>
+                    </div>
+                </div>
             </div>
-			</div>
-		</div>
-	</foreignObject>
+        </div>
+    </foreignObject>
 </svg>
