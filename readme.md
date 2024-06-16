@@ -27,9 +27,7 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```txt
-C#       3 mins          ███████████▓░░░░░░░░░░░░░   46.99 %
-Binary   2 mins          ██████████▓░░░░░░░░░░░░░░   42.14 %
-CSHTML   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+CSHTML   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
