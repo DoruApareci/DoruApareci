@@ -27,11 +27,7 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```txt
-HTML          32 mins         ████████████████▓░░░░░░░░   67.27 %
-CSS           12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.67 %
-SCSS          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-C#            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
