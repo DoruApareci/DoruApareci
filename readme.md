@@ -27,8 +27,7 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 mins          █████████████████████████   99.85 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
