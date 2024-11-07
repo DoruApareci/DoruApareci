@@ -27,9 +27,7 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              55 mins         ███████████████████▒░░░░░   77.21 %
-Java Properties   9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-Groovy            7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
