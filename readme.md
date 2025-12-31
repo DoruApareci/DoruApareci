@@ -27,7 +27,8 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   27 mins         █████████████████████████   100.00 %
+JSON    27 mins         ██████████████▒░░░░░░░░░░   57.12 %
+Other   20 mins         ██████████▓░░░░░░░░░░░░░░   42.88 %
 ```
 
 <!--END_SECTION:waka-->
