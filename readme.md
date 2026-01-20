@@ -27,11 +27,11 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```txt
-Razor                              12 hrs 36 mins  ███████████░░░░░░░░░░░░░░   44.54 %
-Binary                             7 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
-Other                              2 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-CSS                                2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-JavaScript                         1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Razor                              12 hrs 15 mins  ██████████▒░░░░░░░░░░░░░░   41.92 %
+Binary                             7 hrs 55 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
+Other                              3 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+CSS                                2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+JavaScript                         1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
 <!--END_SECTION:waka-->
