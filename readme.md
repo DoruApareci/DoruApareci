@@ -27,11 +27,7 @@ Coming Soon
 <!--START_SECTION:waka-->
 
 ```txt
-C#       43 mins               █████████▒░░░░░░░░░░░░░░░   37.47 %
-Other    29 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
-JSON     25 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
-XML      10 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-YAML     6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
